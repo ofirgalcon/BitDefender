@@ -1,4 +1,4 @@
-BitDefender Module
+MunkiReport BitDefender Module
 ===================
 
 Gets data about the current BitDefender status.
