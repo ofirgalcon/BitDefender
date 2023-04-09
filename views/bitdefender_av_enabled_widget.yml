@@ -1,0 +1,13 @@
+type: button
+widget_id: bitdefender-av_enabled-button-widget
+api_url: /module/bitdefender/get_list/av_enabled
+i18n_title: bitdefender.widget.av_enabled_title
+icon: fa-check-circle
+listing_link: /show/listing/bitdefender/bitdefender
+buttons:
+  - label: "0"
+    i18n_label: off
+    class: btn-danger
+  - label: "1"
+    i18n_label: on
+    class: btn-success

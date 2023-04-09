@@ -1,0 +1,19 @@
+client_tabs:
+    bitdefender:
+        view: bitdefender_tab
+        i18n: bitdefender.title
+listings:
+    bitdefender:
+        view: bitdefender_listing
+        i18n: bitdefender.listing.title
+reports:
+    bitdefender:
+        view: bitdefender_report
+        i18n: bitdefender.report.title
+widgets:
+    bitdefender_av_enabled:
+        view: bitdefender_av_enabled_widget
+    bitdefender_product_version:
+        view: bitdefender_product_version_widget
+    bitdefender_av_signature_version:
+        view: bitdefender_av_signature_version_widget

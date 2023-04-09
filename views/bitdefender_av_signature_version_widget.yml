@@ -1,0 +1,8 @@
+type: scrollbox
+widget_id: bitdefender-av_signature_version-scrollbox-widget
+api_url: /module/bitdefender/get_list/av_signature_version
+i18n_title: bitdefender.widget.av_signature_version_title
+icon: fa-shield
+listing_link: /show/listing/bitdefender/bitdefender
+search_key: label
+badge: count

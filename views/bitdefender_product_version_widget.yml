@@ -1,0 +1,8 @@
+type: scrollbox
+widget_id: bitdefender-product_version-scrollbox-widget
+api_url: /module/bitdefender/get_list/product_version
+i18n_title: bitdefender.widget.product_version_title
+icon: fa-sitemap
+listing_link: /show/listing/bitdefender/bitdefender
+search_key: label
+badge: count

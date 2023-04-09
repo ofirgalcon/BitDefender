@@ -1,0 +1,20 @@
+i18n_title: bitdefender.listing.title
+table:
+    -   column: machine.computer_name
+        i18n_header: listing.computername
+        formatter: clientDetail
+        tab_link: bitdefender
+    -   column: reportdata.serial_number
+        i18n_header: serial
+    -   column: bitdefender.av_enabled
+        i18n_header: bitdefender.column.av_enabled
+        formatter: binaryYesNo
+    -   column: bitdefender.product_version
+        i18n_header: bitdefender.column.product_version
+    -   column: bitdefender.av_signature_version
+        i18n_header: bitdefender.column.av_signature_version
+    -   column: bitdefender.last_update
+        i18n_header: bitdefender.column.last_update
+        formatter: timestampToMoment
+    -   column: bitdefender.error_num
+        i18n_header: bitdefender.column.error_num

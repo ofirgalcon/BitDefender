@@ -1,0 +1,23 @@
+{
+    "column": {
+        "av_enabled": "AV Enabled",
+        "product_version": "Product Version",
+        "av_signature_version": "AV Signature Version",
+        "last_update": "Last Update",
+        "error_num": "Error"
+    },
+    "listing": {
+        "title": "BitDefender"
+    },
+    "report": {
+        "title": "BitDefender"
+    },
+    "title": "BitDefender",
+    "widget": {
+        "av_enabled_title": "AV Enabled",
+        "product_version_title": "Product Version",
+        "av_signature_version_title": "AV Signature Version",
+        "last_update_title": "Last Update",
+        "error_num_title": "Error"
+    }
+}
