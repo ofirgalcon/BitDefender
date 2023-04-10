@@ -1,4 +1,5 @@
 i18n_title: bitdefender.listing.title
+not_null_column: product_version
 table:
     -   column: machine.computer_name
         i18n_header: listing.computername

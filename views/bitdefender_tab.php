@@ -13,7 +13,7 @@ $(document).on('appReady', function(){
             if (key === 'last_update') {
                 td = $('<td>').text(moment.unix(val).fromNow());
             } else if (key === 'av_enabled') {
-                td = $('<td>').text(val ? 'Yes' : 'No');
+                td = $('<td>').text(val == 1 ? "Yes" : "No");
                 if (!val) {
                     td.css('color', 'red');
                 }
